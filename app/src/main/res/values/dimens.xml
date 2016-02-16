@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="margin_chart_element">16dp</dimen>
+    <dimen name="chart_element_width">0dp</dimen>
+    <dimen name="stroke_light">0dp</dimen>
+    <dimen name="padding_chart_element">5dp</dimen>
+</resources>
